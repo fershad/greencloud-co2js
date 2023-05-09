@@ -1,0 +1,9 @@
+{
+  "name": "gcco2js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "@tgwf/co2": "^0.13.2"
+  }
+}
